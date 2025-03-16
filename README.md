@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambhavjain9812" alt="sambhavjain9812" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, ReactJs**
+- 🌱 I’m currently learning **Machine Learning, Generative AI and LLMs**
 
-- 💬 Ask me about **C++,Python,Frontend**
+- 💬 Ask me about **Generative AI, LangChain, LLMs**
 
 - 📫 How to reach me **sambhav.jain2002@gmail.com**
 
